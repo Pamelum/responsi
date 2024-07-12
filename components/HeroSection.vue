@@ -9,7 +9,7 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="c:\Users\Ideapad Gaming\Downloads\9bea933a9ff53ae4e97917dc7e2d2017.jpg" alt="Admin" class="rounded-circle" width="150">
+                    <img src="/assets/1.jpg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Matthew</h4>
                       <p class="text-secondary mb-1">Full Stack Developer</p>
